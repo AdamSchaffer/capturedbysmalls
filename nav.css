@@ -1,0 +1,16 @@
+.social-buttons {
+    text-align: center; /* Center align the buttons */
+    margin-top: 20px;
+}
+
+.social-icon {
+    width: 40px; /* Set size of the icon */
+    height: 40px; /* Maintain a square shape */
+    margin: 0 10px; /* Add spacing between icons */
+    transition: transform 0.3s; /* Add hover effect */
+}
+
+.social-icon:hover {
+    transform: scale(1.2); /* Slightly enlarge on hover */
+}
+
